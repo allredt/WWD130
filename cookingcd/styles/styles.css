@@ -3,16 +3,31 @@
 .home-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    row-gap: 30px;
+    column-gap: 30px;
+}
+#content{
+    max-width: 1600px;
+    margin: 0 auto; 
+ }
+
+ 
+.logo{
+    width: 150px;
 }
 
 /* Page 2 */
 .page2-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    row-gap: 30px;
+    column-gap: 30px;
 }
 
 /* Page 3 */
 .page3-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    row-gap: 30px;
+    column-gap: 30px;
 }
