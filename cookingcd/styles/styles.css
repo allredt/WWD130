@@ -1,0 +1,18 @@
+/* Home Page */
+
+.home-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+/* Page 2 */
+.page2-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+/* Page 3 */
+.page3-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
