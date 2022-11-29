@@ -5,10 +5,10 @@ Fonts are separated by a | */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #304b38;
+  --primary-color: #333333;
   --secondary-color: #e2e2e2 ;
   --accent1-color: #33658a;
-  --accent2-color: #654236;
+  --accent2-color: #304b38;
 
   /* change the values below to your chosen font(s) */
   --heading-font: Courier New;
