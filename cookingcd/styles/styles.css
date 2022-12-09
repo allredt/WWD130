@@ -143,6 +143,7 @@ h5{
 }
 
 .msg1{
+    margin: 25px 25px;
     grid-column: 1/3;
     grid-row: 1/2;
     align-self: center;
@@ -269,16 +270,20 @@ nav a:hover{
 }
 
 .label-card{
+    margin: 25px 25px;
     grid-column: 1/3;
     grid-row: 4/6;
+    align-self: center;
 }
 
 .msg3{
+    margin: 25px 25px;
     grid-column: 1/5;
     grid-row: 3/4;
 }
 
 .msg4{
+    margin: 25px 25px;
     grid-column: 3/5;
     grid-row: 4/6;
     text-align: left;
@@ -286,6 +291,7 @@ nav a:hover{
 }
 
 .msg5{
+    margin: 25px 25px;
     grid-column: 1/4;
     grid-row: 6/8;
 }
@@ -297,6 +303,7 @@ section hr{
 }
 
 .cooking-card{
+    margin: 25px 25px;
     grid-column: 4/5;
     grid-row: 6/8;
     align-self: center;
@@ -311,24 +318,27 @@ section hr{
 }
 
 .shopping-card{
+    margin: 50px 25px;
     grid-column: 1/2;
     grid-row: 1/2;
     align-items: center;
-    margin-top: 25px;
 }
 
 .food-card{
+    margin: 25px 25px;
     grid-column: 1/2;
     grid-row: 2/3;
     align-items: center;
 }
 
 .msg6{
+    margin: 25px 25px;
     grid-column: 2/4;
     grid-row: 1/3;
 }
 
 .family-card{
+    margin: 25px 25px;
     grid-column: 1/4;
     grid-row: 5/6;
 }
